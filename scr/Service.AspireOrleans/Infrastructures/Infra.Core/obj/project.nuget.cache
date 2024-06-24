@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZefhnTbSGno=",
+  "success": true,
+  "projectFilePath": "D:\\#作业\\软件服务工程\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Infrastructures\\Infra.Core\\Infra.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PaperHammer\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\PaperHammer\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\PaperHammer\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\PaperHammer\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\PaperHammer\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

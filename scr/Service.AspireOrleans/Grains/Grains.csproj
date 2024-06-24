@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" />
+		<PackageReference Include="Microsoft.Orleans.Sdk" Version="8.1.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\EmailService\Email.App.Contract\Email.App.Contract.csproj" />
+	  <ProjectReference Include="..\GrainInterfaces\GrainInterfaces.csproj" />
+	  <ProjectReference Include="..\Infrastructures\Infra.IdGenerater\Infra.IdGenerater.csproj" />
+	  <ProjectReference Include="..\OdrService\Odr.Repository\Odr.Repository.csproj" />
+	  <ProjectReference Include="..\PrdtService\Prdt.Repository\Prdt.Repository.csproj" />
+	  <ProjectReference Include="..\StoService\Sto.Repository\Sto.Repository.csproj" />
+	  <ProjectReference Include="..\UsrService\Usr.Repository\Usr.Repository.csproj" />
+	</ItemGroup>
+
+</Project>

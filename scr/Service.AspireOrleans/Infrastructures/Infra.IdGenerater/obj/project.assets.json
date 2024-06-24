@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Yitter.IdGenerator/1.0.14": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Yitter.IdGenerator.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Yitter.IdGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yitter.IdGenerator/1.0.14": {
+      "sha512": "F4nOJ7Geq41vgNWX9E6/vkxRzFInACGpDp4Kad2mA2WIKhEwgPyE9FpulBAuEmDByrfHHz6mOII3IIeLJAh91g==",
+      "type": "package",
+      "path": "yitter.idgenerator/1.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Yitter.IdGenerator.dll",
+        "yitter.idgenerator.1.0.14.nupkg.sha512",
+        "yitter.idgenerator.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Yitter.IdGenerator >= 1.0.14"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PaperHammer\\.nuget\\packages\\": {},
+    "D:\\Visual Studio\\Visual Studio Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\#作业\\软件服务工程\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Infrastructures\\Infra.IdGenerater\\Infra.IdGenerater.csproj",
+      "projectName": "Infra.IdGenerater",
+      "projectPath": "D:\\#作业\\软件服务工程\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Infrastructures\\Infra.IdGenerater\\Infra.IdGenerater.csproj",
+      "packagesPath": "C:\\Users\\PaperHammer\\.nuget\\packages\\",
+      "outputPath": "D:\\#作业\\软件服务工程\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Infrastructures\\Infra.IdGenerater\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Visual Studio\\Visual Studio Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PaperHammer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Yitter.IdGenerator": {
+            "target": "Package",
+            "version": "[1.0.14, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

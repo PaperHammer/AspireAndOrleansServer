@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0021553B-4ABD-4F3D-98BC-54B6B449D034}|Grains\\Grains.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\grains\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021553B-4ABD-4F3D-98BC-54B6B449D034}|Grains\\Grains.csproj|solutionrelative:grains\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0827B7D3-B6F0-4DCA-B356-CC5D511B7341}|Service.Config\\Service.Config.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\service.config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0827B7D3-B6F0-4DCA-B356-CC5D511B7341}|Service.Config\\Service.Config.csproj|solutionrelative:service.config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFFDC1E-94A5-415A-AD9A-2C39A217E795}|Gateway\\Gateway.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\gateway\\controllers\\orderproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFFDC1E-94A5-415A-AD9A-2C39A217E795}|Gateway\\Gateway.csproj|solutionrelative:gateway\\controllers\\orderproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0827B7D3-B6F0-4DCA-B356-CC5D511B7341}|Service.Config\\Service.Config.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\service.config\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0827B7D3-B6F0-4DCA-B356-CC5D511B7341}|Service.Config\\Service.Config.csproj|solutionrelative:service.config\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFFDC1E-94A5-415A-AD9A-2C39A217E795}|Gateway\\Gateway.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\gateway\\controllers\\productproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFFDC1E-94A5-415A-AD9A-2C39A217E795}|Gateway\\Gateway.csproj|solutionrelative:gateway\\controllers\\productproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226DEE7A-00E1-494B-B4CA-564DC18020FD}|AspireOrlans\\AspireOrlans.AppHost\\AspireOrlans.AppHost.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\aspireorlans\\aspireorlans.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226DEE7A-00E1-494B-B4CA-564DC18020FD}|AspireOrlans\\AspireOrlans.AppHost\\AspireOrlans.AppHost.csproj|solutionrelative:aspireorlans\\aspireorlans.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C0F45-4D3E-41FE-B418-2CEB916F97C1}|EmailService\\Email.App.Contract\\Email.App.Contract.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\emailservice\\email.app.contract\\utils\\emailutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C0F45-4D3E-41FE-B418-2CEB916F97C1}|EmailService\\Email.App.Contract\\Email.App.Contract.csproj|solutionrelative:emailservice\\email.app.contract\\utils\\emailutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F42878-D124-4535-8A73-CC61FEA266FB}|EmailService\\Email.Api\\Email.Api.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\emailservice\\email.api\\utils\\rabbitmqreceiverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F42878-D124-4535-8A73-CC61FEA266FB}|EmailService\\Email.Api\\Email.Api.csproj|solutionrelative:emailservice\\email.api\\utils\\rabbitmqreceiverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F42878-D124-4535-8A73-CC61FEA266FB}|EmailService\\Email.Api\\Email.Api.csproj|d:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\service.aspireorleans1\\scr\\service.aspireorleans\\emailservice\\email.api\\utils\\rabbitmqbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F42878-D124-4535-8A73-CC61FEA266FB}|EmailService\\Email.Api\\Email.Api.csproj|solutionrelative:emailservice\\email.api\\utils\\rabbitmqbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Service.Config\\appsettings.json",
+              "RelativeDocumentMoniker": "Service.Config\\appsettings.json",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Service.Config\\appsettings.json",
+              "RelativeToolTip": "Service.Config\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T02:56:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProxyController.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Gateway\\Controllers\\OrderProxyController.cs",
+              "RelativeDocumentMoniker": "Gateway\\Controllers\\OrderProxyController.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Gateway\\Controllers\\OrderProxyController.cs",
+              "RelativeToolTip": "Gateway\\Controllers\\OrderProxyController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:57:38.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductProxyController.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Gateway\\Controllers\\ProductProxyController.cs",
+              "RelativeDocumentMoniker": "Gateway\\Controllers\\ProductProxyController.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Gateway\\Controllers\\ProductProxyController.cs",
+              "RelativeToolTip": "Gateway\\Controllers\\ProductProxyController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:44:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Grains\\ProductService.cs",
+              "RelativeDocumentMoniker": "Grains\\ProductService.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Grains\\ProductService.cs",
+              "RelativeToolTip": "Grains\\ProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:43:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailUtil.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\EmailService\\Email.App.Contract\\Utils\\EmailUtil.cs",
+              "RelativeDocumentMoniker": "EmailService\\Email.App.Contract\\Utils\\EmailUtil.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\EmailService\\Email.App.Contract\\Utils\\EmailUtil.cs",
+              "RelativeToolTip": "EmailService\\Email.App.Contract\\Utils\\EmailUtil.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:10:58.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\AspireOrlans\\AspireOrlans.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AspireOrlans\\AspireOrlans.AppHost\\Program.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\AspireOrlans\\AspireOrlans.AppHost\\Program.cs",
+              "RelativeToolTip": "AspireOrlans\\AspireOrlans.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:19:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQBackgroundService.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\EmailService\\Email.Api\\Utils\\RabbitMQBackgroundService.cs",
+              "RelativeDocumentMoniker": "EmailService\\Email.Api\\Utils\\RabbitMQBackgroundService.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\EmailService\\Email.Api\\Utils\\RabbitMQBackgroundService.cs",
+              "RelativeToolTip": "EmailService\\Email.Api\\Utils\\RabbitMQBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:13:44.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Service.Config\\Program.cs",
+              "RelativeDocumentMoniker": "Service.Config\\Program.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\Service.Config\\Program.cs",
+              "RelativeToolTip": "Service.Config\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:00:37.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMQReceiverService.cs",
+              "DocumentMoniker": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\EmailService\\Email.Api\\Utils\\RabbitMQReceiverService.cs",
+              "RelativeDocumentMoniker": "EmailService\\Email.Api\\Utils\\RabbitMQReceiverService.cs",
+              "ToolTip": "D:\\#\u4F5C\u4E1A\\\u8F6F\u4EF6\u670D\u52A1\u5DE5\u7A0B\\Service.AspireOrleans1\\scr\\Service.AspireOrleans\\EmailService\\Email.Api\\Utils\\RabbitMQReceiverService.cs",
+              "RelativeToolTip": "EmailService\\Email.Api\\Utils\\RabbitMQReceiverService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:08:35.741Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

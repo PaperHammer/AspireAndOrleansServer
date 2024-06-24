@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "host": {
+    "SiloPort": 11111,
+    "GatewayPort": 30001,
+    "ServiceId": "dev1",
+    "ClusterId": "dev"    
+  }
+}
